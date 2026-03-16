@@ -82,11 +82,11 @@ The script is organized into four sections:
 
 The crossover scale in the conformal limit:
 
-$$N_*(q) = \exp\!\Big(2\,\mathrm{arccosh}\big(2^{q/2}\big)\Big)$$
+$$N_*(q) = \exp\Big(2\mathrm{arccosh}\big(2^{q/2}\big)\Big)$$
 
 With Schwarzian correction:
 
-$$\log N_*(q, \beta J) = 2\,\mathrm{arccosh}(2^{q/2}) \left[1 + \frac{c_d - c_\kappa}{\beta J}\right]$$
+$$\log N_*(q, \beta J) = 2mathrm{arccosh}(2^{q/2}) \left[1 + \frac{c_d - c_\kappa}{\beta J}\right]$$
 
 where $c_d \approx 0.05$ (analytic) and $c_\kappa \approx 0.31$ (from ED fit) for $q = 4$.
 
