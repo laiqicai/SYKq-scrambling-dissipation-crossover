@@ -1,7 +1,6 @@
 # Crossover of Scrambling and Dissipation Timescales in the SYK<sub>q</sub> Model
 
 **Author:** Qicai Lai  
-**Paper:** Submitted to Physical Review D (2026)
 
 ## Overview
 
@@ -102,8 +101,6 @@ If you use this code, please cite:
 @article{Lai2026,
   author  = {Lai, Qicai},
   title   = {Crossover of Scrambling and Dissipation Timescales in the {SYK}$_q$ Model},
-  journal = {Phys. Rev. D},
-  year    = {2026},
-  note    = {submitted}
+  year    = {2026}
 }
 ```
